@@ -1,0 +1,12 @@
+// DEFAULT SETTINGS     // ** PRESET APP SETTINGS
+// ************************
+@use 'src/assets/sass/app.scss';
+
+// SVG FILES            // ** SVG FILE CUSTOM POSITIONS
+// ************************
+@use 'src/assets/sass/settings/svg.scss';
+
+// THEME STYLES         // ** CUSTOM APP SPECIFIC
+// ************************
+@use 'src/assets/sass/fonts.scss';
+@use 'src/assets/sass/elements.scss';

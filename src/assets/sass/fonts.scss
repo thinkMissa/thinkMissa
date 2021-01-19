@@ -1,0 +1,14 @@
+
+
+
+@use 'src/assets/sass/settings/app.scss';
+
+
+// DEFAULT SETTINGS     // ** PRESET APP SETTINGS
+// ************************
+p, h1 {
+    @include app.reset;
+}
+
+// THEME STYLES         // ** CUSTOM APP SPECIFIC
+// ************************

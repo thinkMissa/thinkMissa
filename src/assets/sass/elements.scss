@@ -1,0 +1,13 @@
+@use 'src/assets/sass/settings/brand.scss';
+
+// COLOR THEMES: BLACK
+// ************************
+.black {
+    @include brand.black;
+}
+
+// COLOR THEMES: BLACK
+// ************************
+.white {
+    @include brand.white;
+}

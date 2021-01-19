@@ -1,0 +1,16 @@
+// DEFAULT SETTINGS     // ** PRESET APP SETTINGS
+// ************************
+
+@use 'src/assets/sass/settings/app.scss';
+@use 'src/assets/sass/settings/brand.scss';
+
+html,body { 
+    @include app.reset; 
+    @include app.maxfill; 
+    @include  brand.paragraph; 
+}
+
+section {
+    @include app.maxfill; 
+    overflow:hidden; /* or overflow:auto; if you want scrollbars */
+}

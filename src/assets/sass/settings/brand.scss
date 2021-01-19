@@ -1,0 +1,62 @@
+/* *************************************************************************** */
+// COLORS  ******************************************************************* */
+
+$black: black;          $primary: #fe0000;
+$dark: #353839;         $secondary: #f2505d;
+$onyx: #707070;         $accent: #f5af9f;
+$white: white;
+
+
+/* *************************************************************************** */
+// FONT  ********************************************************************* */
+
+@import url("https://use.typekit.net/eqo8cns.css");
+@import url("https://use.typekit.net/eqo8cns.css");
+
+
+@mixin tondo {
+    font-family: tondo, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@mixin aktiv {
+    font-family: aktiv-grotesk-extended, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+@mixin paragraph {
+    @include tondo; 
+    font-size: 22px;
+}
+
+@mixin header1 {
+    @include aktiv; 
+    font-size: 24px;
+}
+
+@mixin header2 {
+    @include tondo; 
+    font-size: 50px;
+}
+
+@mixin banner {
+    @include aktiv; 
+    font-size: 50px;
+}
+
+
+
+/* *************************************************************************** */
+// ELEMENTS  ***************************************************************** */
+
+@mixin black {
+    background: $black;
+    color: $white;
+}
+
+@mixin white {
+    background: $white;
+    color: $dark;
+}

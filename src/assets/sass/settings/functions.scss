@@ -1,0 +1,30 @@
+// ADOBE XD TO CODE CONVERSIONS
+// ************************
+
+$layout_width: 1920;
+$layout_height: 1080;
+
+@function calculator($x, $fx) {
+
+    @if $fx == "width" {
+        // x = element width
+        $x: $x / $layout_width;
+    }
+
+    @if $fx == "height" {
+        // x = element height
+        $x: $x / $layout_height;
+    }
+
+    @if $fx == "top" {
+        // x = y position
+        $x: $x / $layout_width;
+    }
+
+    @if $fx == "left" {
+        // x = x position
+        $x: $x / $layout_width;
+    }
+
+    @return percentage($x);
+}

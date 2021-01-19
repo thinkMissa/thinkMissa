@@ -1,0 +1,8 @@
+@mixin reset {
+    margin: 0px;
+    padding: 0px;
+}
+
+@mixin maxfill {
+    height:100%; width:100%;
+}

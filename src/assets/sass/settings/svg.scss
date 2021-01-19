@@ -1,0 +1,18 @@
+@use 'src/assets/sass/settings/functions.scss';
+
+// DEFAULT SETTINGS     // ** PRESET APP SETTINGS
+// ************************
+svg {
+    position: absolute;
+}
+
+
+
+// THEME STYLES         // ** CUSTOM APP SPECIFIC
+// ************************
+nav {
+    svg {
+        left: functions.calculator(61, 'left');
+        top: functions.calculator(9, 'top');
+    }
+}

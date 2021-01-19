@@ -1,0 +1,12 @@
+@use 'src/assets/sass/settings/brand.scss';
+@use 'src/assets/sass/settings/functions.scss';
+
+nav {
+    
+    @include brand.black;
+
+    position: absolute;
+    // position: fixed;
+    width: 100%;
+    height: functions.calculator(100,'height');
+}
