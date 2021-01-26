@@ -28,4 +28,10 @@
 
 <p align="center">As a 7-year victim on the run who has experienced the massive flaw in support and resources to escape, I plan to use my skills in technology to pave a better way! (further details coming soon...) </p>
 
+### 💪 Skills
+- Social Media Marketing 💭👑
+- Data Analytics 📈📊
+- Strategic Planning 🤔🥉
+- AI Alogrithms 🤔🥉
+
 ![thinkMissa's Github Stats](https://github-readme-stats.vercel.app/api?username=thinkMissa&show_icons=true&theme=radical)
