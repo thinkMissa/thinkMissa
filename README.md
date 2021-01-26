@@ -24,4 +24,8 @@
 - Sign up for my newsletter 💌 *coming soon*
 - [Behance](https://www.behance.net/thinkMissa) 🔨🎨
 
+<h2 align="center">Mission: Ending Domestic Violence 🔥🔥</h2>
+
+<p align="center">As a 7-year victim on the run who has experienced the massive flaw in support and resources to escape, I plan to use my skills in technology to pave a better way! (further details coming soon...) </p>
+
 ![thinkMissa's Github Stats](https://github-readme-stats.vercel.app/api?username=thinkMissa&show_icons=true&theme=radical)
