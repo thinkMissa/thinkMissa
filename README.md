@@ -1,7 +1,9 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/thinkMissa/thinkMissa/readme_header.png "Header")](https://thinkMissa.com/)
 
 
-# :wave: Hi there! I'm Missa... and this is thinkMissa :fire: :fire:
+
+# :wave: Hi there! I'm Missa... and this is thinkMissa :fire:
+
+<h2 align="center">Hello there! My name is Marissa, and I go by Missa! 👋🤓</h2>
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
@@ -29,3 +31,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
