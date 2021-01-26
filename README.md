@@ -11,7 +11,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 What i am currently/done working on
-- [Meiidz](https://meiidz.com)  🚀 ... first project 2015
+- Meiidz (links coming soon)  🚀 ... first project 2015
+- Apprvdz (links coming soon)  🚀 ... 2017
 - thinkMissa  🚀 *coming soon*
 
 ### 📫 Where to find me
