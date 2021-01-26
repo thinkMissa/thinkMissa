@@ -36,4 +36,6 @@
 - Public Speaking 📢
 - Apps/Web Development 🤖😎
 
+<hr>
+
 ![thinkMissa's Github Stats](https://github-readme-stats.vercel.app/api?username=thinkMissa&show_icons=true&theme=radical)
