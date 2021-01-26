@@ -9,3 +9,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Coming Soon](https://github.com/thinkMissa)
 <!-- BLOG-POST-LIST:END -->
+
+### 💻 What i am currently/done working on
+- [Meiidz](https://meiidz.com)  🚀 ... first project 2015
+- thinkMissa  🚀 *coming soon*
