@@ -12,7 +12,8 @@
 
 ### 💻 What i am currently/done working on
 - Meiidz (links coming soon)  🚀 ... first project 2015
-- Apprvdz (links coming soon)  🚀 ... 2017
+- Apprvd (links coming soon)  🚀 ... 2017
+- & More!  🚀 (links coming soon)
 - thinkMissa  🚀 *coming soon*
 
 ### 📫 Where to find me
