@@ -1,5 +1,4 @@
-# :wave: Hi there! I'm Missa... and this is thinkMissa :sparkles: :sparkles:
-
+# :wave: Hi there! I'm Missa... and this is thinkMissa :fire: :fire:
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
