@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/thinkMissa/thinkMissa/readme_header.png "Header")](https://thinkMissa.com/)
 
 
 # :wave: Hi there! I'm Missa... and this is thinkMissa :fire: :fire:
