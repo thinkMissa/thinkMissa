@@ -23,3 +23,5 @@
 - Blog 🤓💻 *coming soon*
 - Sign up for my newsletter 💌 *coming soon*
 - [Behance](https://www.behance.net/thinkMissa) 🔨🎨
+
+![thinkMissa's Github Stats](https://github-readme-stats.vercel.app/api?username=thinkMissa&show_icons=true&theme=radical)
