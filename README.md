@@ -17,11 +17,9 @@
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/thinkmissa) 😏
 - Twitter 🐤 ... *coming soon*
-- [Instagram](https://instagram.com/stephenajulu) 😎 *coming soon*
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼 *coming soon*
-- [Website](https://stephenajulu.com) 😏🔗 *coming soon*
-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻 *coming soon*
-- [Additional places to find me](https://stephenajulu.com/links) 🔗🔗 *coming soon*
-- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌 *coming soon*
-- [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒ *coming soon*
-- [TechWit Ke](https://techwit2.netlify.app) 🔨✒ *coming soon*
+- Instagram 😎 *coming soon*
+- LinkedIn 👨💼 *coming soon*
+- Website: thinkMissa 😏🔗 *coming soon*
+- Blog 🤓💻 *coming soon*
+- Sign up for my newsletter 💌 *coming soon*
+- [Behance](https://www.behance.net/thinkMissa) 🔨🎨
